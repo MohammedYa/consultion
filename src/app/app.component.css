@@ -1,0 +1,18 @@
+.navbar {
+  height: 56px !important;
+  color: #ffffffcc;
+}
+.navbar a {
+  color: #1a3050;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.navbar img {
+  padding-top: 22px;
+}
+.acct {
+  color: #c9961b !important;
+}
