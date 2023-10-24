@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Poppins:wght@500&display=swap');
+.navbar {
+  color: #ffffffcc;
+}
+.navbar a {
+  color: #132f5a;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding:0 25px 0 25px;
+}
+.navbar img {
+  padding-left: 22px;
+}
+.acct {
+  color: #c9961b !important;
+}

@@ -1,0 +1,44 @@
+section{
+background-image: url("../../../assets/bg-footer.png");
+background-size: cover;
+background-position: center center;
+inset: 0;
+position: relative;
+}
+.layer{  
+    background-color:rgba(26, 48, 80, 0.5);
+    position: absolute;
+    inset: 0;
+
+}
+.info{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    position: sticky;
+    z-index: 3;
+}
+.info p{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.icon{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.icon a{
+    text-decoration: none;
+    color: #fff !important;
+    margin: 10px;
+    font-size: 20px;
+}
